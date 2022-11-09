@@ -10,3 +10,5 @@ Console.WriteLine(triangle.IsRight());
 
 var trianle1 = new Triangle(1, 2, 3);
 Console.WriteLine(trianle1.IsRight());
+
+
