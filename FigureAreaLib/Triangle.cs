@@ -22,7 +22,7 @@ namespace FigureAreaLib
         public double Area()
         {
             var p = (a + b + c) / 2;
-            return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+            return Math.Round((Math.Sqrt(p * (p - a) * (p - b) * (p - c))),2);
         }
 
         public bool IsRight()

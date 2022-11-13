@@ -15,7 +15,7 @@ namespace FigureAreaLib
         }
         public double Area()
         {
-            return Math.PI * Radius*Radius;
+            return Math.Round((Math.PI * Radius * Radius),2);
         }
     }
 }

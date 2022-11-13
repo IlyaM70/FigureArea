@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FigureArea", "FigureArea\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaLib", "FigureAreaLib\FigureAreaLib.csproj", "{43F5B8E1-B92A-477B-AAB6-8BF209058ECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaTests", "FigureAreaTests\FigureAreaTests.csproj", "{8B424339-A476-41BB-B03C-685414161BD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{43F5B8E1-B92A-477B-AAB6-8BF209058ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F5B8E1-B92A-477B-AAB6-8BF209058ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F5B8E1-B92A-477B-AAB6-8BF209058ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B424339-A476-41BB-B03C-685414161BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B424339-A476-41BB-B03C-685414161BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B424339-A476-41BB-B03C-685414161BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B424339-A476-41BB-B03C-685414161BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
