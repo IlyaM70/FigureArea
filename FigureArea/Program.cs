@@ -1,4 +1,4 @@
-﻿using FigureArea;
+﻿using FigureAreaLib;
 
 var circle = new Circle(10);
 Console.WriteLine(circle.Area());

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FigureArea
+namespace FigureAreaLib
 {
     public class Triangle : IFigure
     {
